@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/HomeworkShiz/Capstone/Game/Content/Game/Blueprints/Player/BP_TopDownCharacter.uasset",
+				"C:/HomeworkShiz/Capstone/Game/Content/Game/Blueprints/Player/BP_Camera.uasset",
+				"C:/HomeworkShiz/Capstone/Game/Content/Game/Blueprints/Player/BP_CameraController.uasset",
+				"C:/HomeworkShiz/Capstone/Game/Content/Game/Input/IA_MoveCamera.uasset",
+				"C:/HomeworkShiz/Capstone/Game/Content/Game/Input/IA_MoveCameraHorizontal.uasset",
+				"C:/HomeworkShiz/Capstone/Game/Content/Game/Input/IA_MoveCameraVertical.uasset",
+				"C:/HomeworkShiz/Capstone/Game/Content/Game/Input/IMC_CameraControl.uasset",
+				"C:/HomeworkShiz/Capstone/Game/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
+				"C:/HomeworkShiz/Capstone/Game/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"C:/HomeworkShiz/Capstone/Game/Content/Game/Input/IA_Zoom.uasset"
+			]
+		}
+	]
+}
