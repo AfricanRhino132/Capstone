@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Neumont/Capstone/Game/Content/Game/Input/IA_MoveCameraFaster.uasset",
+				"C:/Neumont/Capstone/Game/Content/Game/Input/IMC_CameraControl.uasset",
+				"C:/Neumont/Capstone/Game/Content/Game/Blueprints/Player/BP_Camera.uasset",
+				"C:/Neumont/Capstone/Game/Content/Game/Blueprints/Player/BP_CameraController.uasset",
+				"C:/Neumont/Capstone/Game/Content/Game/Blueprints/Units/BP_UnitBase.uasset",
+				"C:/Neumont/Capstone/Game/Content/Game/Input/IA_Select.uasset",
+				"C:/Neumont/Capstone/Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/SA/OU5S23KH18UF511B8EGI50.uasset",
 				"C:/HomeworkShiz/Capstone/Game/Content/Game/Blueprints/Player/BP_TopDownCharacter.uasset",
 				"C:/HomeworkShiz/Capstone/Game/Content/Game/Blueprints/Player/BP_Camera.uasset",
 				"C:/HomeworkShiz/Capstone/Game/Content/Game/Blueprints/Player/BP_CameraController.uasset",
